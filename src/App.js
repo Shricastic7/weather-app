@@ -4,7 +4,10 @@ import Weather from './components/Weather.jsx';
 
 function App() {
   return (
-    <Weather />
+    <div>
+      <h2>Weather Forecast Application</h2>
+      <Weather />
+    </div>
   );
 }
 
